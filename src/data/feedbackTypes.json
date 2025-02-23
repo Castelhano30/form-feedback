@@ -1,0 +1,5 @@
+[
+    { "id": 1, "value": "elogio", "label": "Elogio" },
+    { "id": 2, "value": "sugestao", "label": "Sugestão" },
+    { "id": 3, "value": "reclamacao", "label": "Reclamação" }
+  ]
